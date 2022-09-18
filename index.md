@@ -4,7 +4,7 @@
     <div>
         <span>
             <img src="./res/img/alimail-logo.ico" height="12px" />
-            <a href="mailto:Hexrt@ctrl-s.cn" style="color:rgb(207, 207, 207);">Hexrt@ctrl-s.cn</a>
+            <a href="mailto:Hexrt@ctrl-s.cn">Hexrt@ctrl-s.cn</a>
         </span>
         |
         <span>
@@ -13,12 +13,12 @@
         |
         <span>
             <img src="./res/img/github-logo.ico" height="12px" />
-            <a href="https://www.github.com/Hexrt" style="color:rgb(207, 207, 207);">Hexrt</a>
+            <a href="https://www.github.com/Hexrt">Hexrt</a>
         </span>
     </div>
     <div>
         <span>
-            🙂<a href="https://hexrt.github.io" style="color:rgb(207, 207, 207);">https://hexrt.github.io</a>
+            🙂 <a href="https://hexrt.github.io">https://hexrt.github.io</a>
         </span>
     </div>
 </div>
